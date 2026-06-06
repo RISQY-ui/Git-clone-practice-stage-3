@@ -42,6 +42,4 @@ ls -la
 
 ✅ Misi selesai! 🚀🐧
 
-```
 
----
